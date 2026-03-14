@@ -175,6 +175,12 @@
 
     <footer>
         <p>&copy; 2023 BestChoiceTires. All rights reserved.</p>
+        <nav style="margin-bottom: 0.5rem;">
+            <a href="#" style="color: white; margin: 0 0.5rem;">Home</a> |
+            <a href="#" style="color: white; margin: 0 0.5rem;">Products</a> |
+            <a href="#" style="color: white; margin: 0 0.5rem;">About</a> |
+            <a href="#" style="color: white; margin: 0 0.5rem;">Contact</a>
+        </nav>
         <p><a href="#" style="color: white;">Privacy Policy</a> | <a href="#" style="color: white;">Terms of Service</a></p>
     </footer>
 </body>
