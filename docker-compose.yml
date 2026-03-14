@@ -1,0 +1,8 @@
+services:
+  php-backend:
+    image: php:7.4-apache
+    container_name: php-backend
+    volumes:
+      - .:/var/www/html
+    ports:
+      - '8000:80'
