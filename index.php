@@ -101,9 +101,10 @@
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Products</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Tires</a></li>
+                <li><a href="#">Rimes</a></li>
+                <li><a href="#">Accesories</a></li>
+                <li><a href="#">Services</a></li>
             </ul>
         </nav>
         <div>
