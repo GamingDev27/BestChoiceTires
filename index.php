@@ -189,6 +189,20 @@
         </div>
     </section>
 
+    <section class="highlight-section" style="padding:2rem; background:#fff;">
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem; align-items:center; max-width:1100px; margin:0 auto;">
+            <div>
+                <img src="https://via.placeholder.com/500x350?text=Top+Tire+Picks" alt="Tire products" style="width:100%; border-radius:10px; object-fit:cover;">
+            </div>
+            <div>
+                <h2>Discover Premium Tire Products</h2>
+                <p>At BestChoiceTires, we offer top brands, advanced tire technology, and tailored solutions for every vehicle. Whether you need performance, all-season, off-road, or winter tires, our selection is designed to maximize safety, comfort, and longevity.</p>
+                <p>Shop with confidence and get expert recommendations based on your vehicle, driving style, and climate. Our team helps you find the perfect fit so you can drive smoother and safer every day.</p>
+                <a href="#" style="background:#ff6600; color:#fff; text-decoration:none; padding:0.6rem 1rem; border-radius:4px; display:inline-block;">Explore Tire Products</a>
+            </div>
+        </div>
+    </section>
+
     <footer>
         <p>&copy; 2023 BestChoiceTires. All rights reserved.</p>
         <nav style="margin-bottom: 0.5rem;">
