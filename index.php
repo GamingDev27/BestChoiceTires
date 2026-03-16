@@ -143,6 +143,8 @@
 
     <?php include __DIR__ . '/topPick.php'; ?>
 
+    <?php include __DIR__ . '/limitedTimeBundle.php'; ?>
+
     <section class="featured-products">
         <h2 style="text-align: center;">Featured Products</h2>
         <div class="products-grid">
