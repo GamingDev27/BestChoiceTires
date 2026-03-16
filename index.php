@@ -143,6 +143,8 @@
 
     <?php include __DIR__ . '/topPick.php'; ?>
 
+    <?php include __DIR__ . '/productShowcase.php'; ?>
+
     <?php include __DIR__ . '/limitedTimeBundle.php'; ?>
 
     <section class="featured-products">
