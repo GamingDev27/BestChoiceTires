@@ -10,6 +10,7 @@
         </div>
 
         <div>
+            <!-- Product details -->
             <h2 style="margin-top:0;">Product Title</h2>
             <p style="margin:0.5rem 0 1.5rem; font-size:1.1rem; color:#555;">$19.99</p>
             <p style="margin:0 0 1.5rem; color:#333; line-height:1.5;">This is a featured product highlight section. Add flavor text here describing the key benefits, fitment, and why it’s a great choice for your vehicle.</p>
