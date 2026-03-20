@@ -14,6 +14,7 @@ $tires = [
     <title>BestChoiceTires - Tire Shop</title>
 </head>
 <body>
+    <!-- Simple tire shop listing -->
     <h1>BestChoiceTires Shop</h1>
     <p>Browse our best tires:</p>
     <ul>
