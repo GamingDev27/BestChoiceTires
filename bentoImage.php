@@ -2,6 +2,7 @@
   <div class="marquee-content">
     ✦ YOUR LOGO NAME ✦ YOUR LOGO NAME ✦ YOUR LOGO NAME ✦
   </div>
+  <!-- Add more marquee-content divs if you want multiple lines of scrolling text -->
 </div>
 
 <style>
