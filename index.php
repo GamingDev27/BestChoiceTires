@@ -192,16 +192,39 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 BestChoiceTires. All rights reserved.</p>
-        <nav style="margin-bottom: 0.5rem;">
-            <div style="display: flex; flex-direction: column; align-items: center; gap: 0.3rem;">
-                <a href="#" style="color: white;">Home</a>
-                <a href="#" style="color: white;">Products</a>
-                <a href="#" style="color: white;">About</a>
-                <a href="#" style="color: white;">Contact</a>
-            </div>
-        </nav>
-        <p><a href="#" style="color: white;">Privacy Policy</a> | <a href="#" style="color: white;">Terms of Service</a></p>
-    </footer>
+    <p>&copy; 2023 BestChoiceTires. All rights reserved.</p>
+
+    <nav style="margin-bottom: 0.5rem;">
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 0.3rem;">
+            <a href="#" style="color: white;">Home</a>
+            <a href="#" style="color: white;">Products</a>
+            <a href="#" style="color: white;">About</a>
+            <a href="#" style="color: white;">Contact</a>
+        </div>
+    </nav>
+
+    <!-- Category Links -->
+    <div style="text-align: center; margin-bottom: 0.5rem;">
+        <p style="margin: 0.3rem 0;"><strong>By Brand</strong></p>
+        <a href="#" style="color: white;">Michelin</a> |
+        <a href="#" style="color: white;">Bridgestone</a> |
+        <a href="#" style="color: white;">Goodyear</a>
+
+        <p style="margin: 0.3rem 0;"><strong>By Size</strong></p>
+        <a href="#" style="color: white;">15 inch</a> |
+        <a href="#" style="color: white;">16 inch</a> |
+        <a href="#" style="color: white;">17 inch</a>
+
+        <p style="margin: 0.3rem 0;"><strong>By Type</strong></p>
+        <a href="#" style="color: white;">All-Season</a> |
+        <a href="#" style="color: white;">Winter</a> |
+        <a href="#" style="color: white;">Performance</a>
+    </div>
+
+    <p>
+        <a href="#" style="color: white;">Privacy Policy</a> |
+        <a href="#" style="color: white;">Terms of Service</a>
+    </p>
+</footer>
 </body>
 </html>
