@@ -190,7 +190,8 @@
             </div>
         </div>
     </section>
-
+    
+    <?php include __DIR__ . '/testimony.php'; ?>
     <footer style="background-color: #222; color: white; padding: 20px 10px;">
     
         <div style="display: flex; flex-wrap: wrap; justify-content: space-around; text-align: left; gap: 20px;">
