@@ -197,6 +197,7 @@
 
             <!-- Column 1: Brand -->
             <div>
+                <img src="logo.png" alt="BestChoiceTires Logo" style="width: 120px; margin-bottom: 10px;">
                 <h4>BestChoiceTires</h4>
                 <p style="max-width: 180px;">
                     Quality tires for all vehicles. Drive safe with the best choices.
