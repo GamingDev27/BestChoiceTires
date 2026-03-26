@@ -1,0 +1,26 @@
+.offsale-banner {
+  width: 100%;
+  padding: 40px 20px;
+  background: linear-gradient(135deg, #ff4d4d, #b30000);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.offsale-content {
+  color: #fff;
+  max-width: 500px;
+}
+
+.offsale-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.offsale-message {
+  font-size: 1rem;
+  opacity: 0.9;
+}
