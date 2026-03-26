@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BestChoiceTires - Premium Tires for Every Vehicle</title>
+    <link rel="stylesheet" src="assets/style.css">
     <style>
         body {
             font-family: Arial, sans-serif;
