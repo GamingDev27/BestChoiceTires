@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
-
+   <?php include __DIR__ . '../../components/navbar.php'; ?>      
   <section class="cart-page">
     <div class="container">
       <h1>Your Cart</h1>
