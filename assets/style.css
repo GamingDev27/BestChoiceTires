@@ -24,3 +24,13 @@
   font-size: 1rem;
   opacity: 0.9;
 }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;       /* centers it */
+  padding: 0 20px;     /* space on left/right */
+}
+
+.offsale-banner {
+  margin: 40px 0;
+}
