@@ -130,7 +130,7 @@
         </div>
     </header>
 
-   <?php include __DIR__ . 'components/hero.php'; ?>
+   <?php include __DIR__ . '/components/hero.php'; ?>
 
     <?php include __DIR__ . '/category.php'; ?>
 
