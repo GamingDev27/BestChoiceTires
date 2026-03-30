@@ -15,7 +15,7 @@
             <!-- Service 1 -->
             <div class="service">
             <div class="service__image">
-                <img src="https://picsum.photos/200/300" alt="Tire Installation">
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="Tire Installation">
             </div>
             <div class="service__content">
                 <h2>Tire Installation</h2>
@@ -28,7 +28,7 @@
             <!-- Service 2 (reverse) -->
             <div class="service service--reverse">
             <div class="service__image">
-                <img src="https://picsum.photos/200/300" alt="Wheel Alignment">
+                <img src="https://picsum.photos/id/123/200/300" alt="Wheel Alignment">
             </div>
             <div class="service__content">
                 <h2>Wheel Alignment</h2>
@@ -41,7 +41,7 @@
             <!-- Service 3 -->
             <div class="service">
             <div class="service__image">
-                <img src="https://picsum.photos/200/300" alt="Tire Rotation">
+                <img src="https://picsum.photos/seed/364/200/300" alt="Tire Rotation">
             </div>
             <div class="service__content">
                 <h2>Tire Rotation</h2>
