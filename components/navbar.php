@@ -2,7 +2,7 @@
     <div class="logo">BestChoiceTires</div>
     <nav>
         <ul class="main-nav">
-            <li><a href="#">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li class="dropdown">
                 <a href="#">Tires</a>
                 <ul class="submenu">
