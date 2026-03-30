@@ -7,28 +7,98 @@
   <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
-   <?php include __DIR__ . '../../components/navbar.php'; ?>      
-  <section class="cart-page">
-    <div class="container">
-      <h1>Your Cart</h1>
+    <?php include __DIR__ . '../../components/navbar.php'; ?>      
+    
+    <section class="cart">
+        <div class="container">
+            <header class="cart__header">
+            <h1 class="cart__title">Your Cart</h1>
+            </header>
 
-      <div class="cart-wrapper">
-        
-        <!-- Cart Items -->
-        <div class="cart-items" id="cart-items">
-          <!-- Items will be injected here -->
+            <div class="cart__layout">
+            
+            <!-- Cart Items -->
+            <div class="cart__items" id="cart-items">
+
+                <!-- Cart Item -->
+                <article class="cart-item">
+                <img 
+                    src="https://via.placeholder.com/100" 
+                    alt="Product name" 
+                    class="cart-item__image"
+                >
+
+                <div class="cart-item__details">
+                    <h2 class="cart-item__title">Sample Product 1</h2>
+                    <p class="cart-item__price">₱499</p>
+
+                    <div class="cart-item__actions">
+                    <label>
+                        Qty:
+                        <input 
+                        type="number" 
+                        value="1" 
+                        min="1" 
+                        class="cart-item__qty"
+                        >
+                    </label>
+
+                    <button class="cart-item__remove">
+                        Remove
+                    </button>
+                    </div>
+                </div>
+                </article>
+
+                <!-- Cart Item -->
+                <article class="cart-item">
+                <img 
+                    src="https://via.placeholder.com/100" 
+                    alt="Product name" 
+                    class="cart-item__image"
+                >
+
+                <div class="cart-item__details">
+                    <h2 class="cart-item__title">Sample Product 2</h2>
+                    <p class="cart-item__price">₱899</p>
+
+                    <div class="cart-item__actions">
+                    <label>
+                        Qty:
+                        <input 
+                        type="number" 
+                        value="2" 
+                        min="1" 
+                        class="cart-item__qty"
+                        >
+                    </label>
+
+                    <button class="cart-item__remove">
+                        Remove
+                    </button>
+                    </div>
+                </div>
+                </article>
+
+            </div>
+
+            <!-- Cart Summary -->
+            <aside class="cart__summary">
+                <h3 class="cart__summary-title">Summary</h3>
+
+                <div class="cart__summary-row">
+                <span>Subtotal</span>
+                <strong id="cart-total">₱2,297</strong>
+                </div>
+
+                <button class="btn cart__checkout">
+                Checkout
+                </button>
+            </aside>
+
+            </div>
         </div>
-
-        <!-- Cart Summary -->
-        <div class="cart-summary">
-          <h3>Summary</h3>
-          <p>Total: <strong id="cart-total">₱0</strong></p>
-          <button class="btn checkout-btn">Checkout</button>
-        </div>
-
-      </div>
-    </div>
-  </section>
+    </section>
 
   <script>
     let cart = JSON.parse(localStorage.getItem('cart')) || [];

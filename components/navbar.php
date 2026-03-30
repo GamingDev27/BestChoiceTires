@@ -27,6 +27,6 @@
     <div>
         <input type="text" placeholder="Search tires...">
         <button>Search</button>
-        <a href="#" style="color: white; margin-left: 1rem;">Cart (0)</a>
+        <a href="pages/cart.php" style="color: white; margin-left: 1rem;">Cart (0)</a>
     </div>
 </header>
