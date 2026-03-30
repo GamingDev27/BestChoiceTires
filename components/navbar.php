@@ -13,7 +13,7 @@
             </li>
             <li><a href="#">Rims</a></li>
             <li><a href="#">Accesories</a></li>
-            <li><a href="#">Services</a></li>
+            <li><a href="pages/services.php">Services</a></li>
         </ul>
     </nav>
     <style>
