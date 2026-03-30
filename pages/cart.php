@@ -17,70 +17,109 @@
 
             <div class="cart__layout">
             
-            <!-- Cart Items -->
-            <div class="cart__items" id="cart-items">
+                <div class="cart__items" id="cart-items">
 
-                <!-- Cart Item -->
+                <!-- Cart Item Card -->
                 <article class="cart-item">
-                <img 
-                    src="https://via.placeholder.com/100" 
+                    <img 
+                    src="https://via.placeholder.com/120" 
                     alt="Product name" 
                     class="cart-item__image"
-                >
+                    >
 
-                <div class="cart-item__details">
+                    <div class="cart-item__details">
                     <h2 class="cart-item__title">Sample Product 1</h2>
                     <p class="cart-item__price">₱499</p>
 
                     <div class="cart-item__actions">
-                    <label>
+                        <label>
                         Qty:
-                        <input 
-                        type="number" 
-                        value="1" 
-                        min="1" 
-                        class="cart-item__qty"
-                        >
-                    </label>
+                        <input type="number" value="1" min="1" class="cart-item__qty">
+                        </label>
 
-                    <button class="cart-item__remove">
+                        <button class="cart-item__remove">
                         Remove
-                    </button>
+                        </button>
                     </div>
-                </div>
+                    </div>
                 </article>
 
-                <!-- Cart Item -->
+                <!-- Cart Item Card -->
                 <article class="cart-item">
-                <img 
-                    src="https://via.placeholder.com/100" 
+                    <img 
+                    src="https://via.placeholder.com/120" 
                     alt="Product name" 
                     class="cart-item__image"
-                >
+                    >
 
-                <div class="cart-item__details">
+                    <div class="cart-item__details">
                     <h2 class="cart-item__title">Sample Product 2</h2>
                     <p class="cart-item__price">₱899</p>
 
                     <div class="cart-item__actions">
-                    <label>
+                        <label>
                         Qty:
-                        <input 
-                        type="number" 
-                        value="2" 
-                        min="1" 
-                        class="cart-item__qty"
-                        >
-                    </label>
+                        <input type="number" value="2" min="1" class="cart-item__qty">
+                        </label>
 
-                    <button class="cart-item__remove">
+                        <button class="cart-item__remove">
                         Remove
-                    </button>
+                        </button>
                     </div>
-                </div>
+                    </div>
                 </article>
 
-            </div>
+                <!-- Cart Item Card -->
+                <article class="cart-item">
+                    <img 
+                    src="https://via.placeholder.com/120" 
+                    alt="Product name" 
+                    class="cart-item__image"
+                    >
+
+                    <div class="cart-item__details">
+                    <h2 class="cart-item__title">Sample Product 3</h2>
+                    <p class="cart-item__price">₱899</p>
+
+                    <div class="cart-item__actions">
+                        <label>
+                        Qty:
+                        <input type="number" value="2" min="1" class="cart-item__qty">
+                        </label>
+
+                        <button class="cart-item__remove">
+                        Remove
+                        </button>
+                    </div>
+                    </div>
+                </article>
+
+                <!-- Cart Item Card -->
+                <article class="cart-item">
+                    <img 
+                    src="https://via.placeholder.com/120" 
+                    alt="Product name" 
+                    class="cart-item__image"
+                    >
+
+                    <div class="cart-item__details">
+                    <h2 class="cart-item__title">Sample Product 4</h2>
+                    <p class="cart-item__price">₱899</p>
+
+                    <div class="cart-item__actions">
+                        <label>
+                        Qty:
+                        <input type="number" value="2" min="1" class="cart-item__qty">
+                        </label>
+
+                        <button class="cart-item__remove">
+                        Remove
+                        </button>
+                    </div>
+                    </div>
+                </article>
+                </div>
+            </div>    
 
             <!-- Cart Summary -->
             <aside class="cart__summary">
