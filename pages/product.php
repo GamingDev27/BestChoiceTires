@@ -42,45 +42,47 @@
   </section>
   
   <section class="product-suggestions">
-        <div class="container">
-            <h2 class="section-title">You may also like</h2>
+      <div class="container">
+          <h2 class="section-title">You may also like</h2>
 
-            <div class="suggestions-grid">
+          <div class="suggestions-grid">
 
-            <!-- Product Card -->
-            <div class="product-card">
-                <img src="https://via.placeholder.com/200" alt="Tire 1">
-                <h3 class="product-card__title">All-Season Tire X200</h3>
-                <p class="product-card__price">₱4,800</p>
-                <a href="#" class="btn product-card__btn">View Product</a>
-            </div>
+          <!-- Product Card -->
+          <div class="product-card">
+              <img src="https://via.placeholder.com/200" alt="Tire 1">
+              <h3 class="product-card__title">All-Season Tire X200</h3>
+              <p class="product-card__price">₱4,800</p>
+              <a href="#" class="btn product-card__btn">View Product</a>
+          </div>
 
-            <!-- Product Card -->
-            <div class="product-card">
-                <img src="https://via.placeholder.com/200" alt="Tire 2">
-                <h3 class="product-card__title">Performance Tire Pro</h3>
-                <p class="product-card__price">₱5,200</p>
-                <a href="#" class="btn product-card__btn">View Product</a>
-            </div>
+          <!-- Product Card -->
+          <div class="product-card">
+              <img src="https://via.placeholder.com/200" alt="Tire 2">
+              <h3 class="product-card__title">Performance Tire Pro</h3>
+              <p class="product-card__price">₱5,200</p>
+              <a href="#" class="btn product-card__btn">View Product</a>
+          </div>
 
-            <!-- Product Card -->
-            <div class="product-card">
-                <img src="https://via.placeholder.com/200" alt="Tire 3">
-                <h3 class="product-card__title">EcoDrive Tire</h3>
-                <p class="product-card__price">₱3,900</p>
-                <a href="#" class="btn product-card__btn">View Product</a>
-            </div>
+          <!-- Product Card -->
+          <div class="product-card">
+              <img src="https://via.placeholder.com/200" alt="Tire 3">
+              <h3 class="product-card__title">EcoDrive Tire</h3>
+              <p class="product-card__price">₱3,900</p>
+              <a href="#" class="btn product-card__btn">View Product</a>
+          </div>
 
-            <!-- Product Card -->
-            <div class="product-card">
-                <img src="https://via.placeholder.com/200" alt="Tire 4">
-                <h3 class="product-card__title">Off-Road Tire XT</h3>
-                <p class="product-card__price">₱6,100</p>
-                <a href="#" class="btn product-card__btn">View Product</a>
-            </div>
+          <!-- Product Card -->
+          <div class="product-card">
+              <img src="https://via.placeholder.com/200" alt="Tire 4">
+              <h3 class="product-card__title">Off-Road Tire XT</h3>
+              <p class="product-card__price">₱6,100</p>
+              <a href="#" class="btn product-card__btn">View Product</a>
+          </div>
 
-            </div>
-        </div>
-    </section>
+          </div>
+      </div>
+  </section>
+
+  <?php include __DIR__ . '../../components/footer.php'; ?>
 </body>
 </html>
