@@ -138,7 +138,8 @@
             </div>
         </div>
     </section>
-
+    
+    <?php include __DIR__ . '../../components/footer.php'; ?>
   <script>
     let cart = JSON.parse(localStorage.getItem('cart')) || [];
 
