@@ -477,14 +477,16 @@
 .shop-section {
   padding: 20px;
   font-family: Arial, sans-serif;
+  display: flex;
+  gap: 20px;
 }
 
 /* FILTERS */
 .filters {
   display: flex;
+    flex-direction: column;
   gap: 10px;
-  margin-bottom: 20px;
-  flex-wrap: wrap;
+  width: 200px;
 }
 
 .filters select {
@@ -499,6 +501,7 @@
   display: grid;
   grid-template-columns: repeat(5, minmax(180px, 1fr));
   gap: 20px;
+  flex-grow: 1;
 }
 
 /* PRODUCT CARD */
@@ -547,14 +550,14 @@
 
 .add-to-cart {
     margin-top: 10px;
-    padding: 8px 12px;
-    background-color: #28a745;
-    color: white;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-}
+      padding: 8px 12px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+  }
 
-.add-to-cart:hover {
-    background-color: #218838;
-}
+  .add-to-cart:hover {
+      background-color: #218838;
+  }
