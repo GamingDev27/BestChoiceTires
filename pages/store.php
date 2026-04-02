@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
+    <?php include __DIR__ . '../../components/navbar.php'; ?>     
     <section class="shop-section">
 
         <!-- FILTERS -->
@@ -68,7 +69,7 @@
         </div>
 
     </section>
-
+    <?php include __DIR__ . '../../components/footer.php'; ?>
 <script>
 const brandFilter = document.getElementById('brandFilter');
 const sizeFilter = document.getElementById('sizeFilter');
