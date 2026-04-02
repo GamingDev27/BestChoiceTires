@@ -3,6 +3,7 @@
     <nav>
         <ul class="main-nav">
             <li><a href="/">Home</a></li>
+            <li><a href="pages/services.php">Store</a></li>
             <li class="dropdown">
                 <a href="#">Tires</a>
                 <ul class="submenu">
@@ -10,8 +11,7 @@
                     <li><a href="#">Sizes</a></li>
                     <li><a href="#">Condition</a></li>
                 </ul>
-            </li>
-            <li><a href="#">Rims</a></li>
+            </li>            
             <li><a href="#">Accesories</a></li>
             <li><a href="pages/services.php">Services</a></li>
         </ul>
