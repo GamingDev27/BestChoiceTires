@@ -40,30 +40,70 @@
             <img src="https://via.placeholder.com/150">
             <h4>Nike Shirt</h4>
             <p>$30</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
             </div>
 
             <div class="product" data-brand="adidas" data-size="l" data-price="mid">
             <img src="https://via.placeholder.com/150">
             <h4>Adidas Hoodie</h4>
             <p>$70</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
             </div>
 
             <div class="product" data-brand="nike" data-size="s" data-price="high">
             <img src="https://via.placeholder.com/150">
             <h4>Nike Jacket</h4>
             <p>$120</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
             </div>
 
             <div class="product" data-brand="adidas" data-size="m" data-price="low">
             <img src="https://via.placeholder.com/150">
             <h4>Adidas Tee</h4>
             <p>$40</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
             </div>
 
             <div class="product" data-brand="nike" data-size="l" data-price="mid">
             <img src="https://via.placeholder.com/150">
             <h4>Nike Shorts</h4>
             <p>$60</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
+            </div>
+
+            <div class="product" data-brand="nike" data-size="m" data-price="low">
+            <img src="https://via.placeholder.com/150">
+            <h4>Nike Shirt</h4>
+            <p>$30</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
+            </div>
+
+            <div class="product" data-brand="adidas" data-size="l" data-price="mid">
+            <img src="https://via.placeholder.com/150">
+            <h4>Adidas Hoodie</h4>
+            <p>$70</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
+            </div>
+
+            <div class="product" data-brand="nike" data-size="s" data-price="high">
+            <img src="https://via.placeholder.com/150">
+            <h4>Nike Jacket</h4>
+            <p>$120</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
+            </div>
+
+            <div class="product" data-brand="adidas" data-size="m" data-price="low">
+            <img src="https://via.placeholder.com/150">
+            <h4>Adidas Tee</h4>
+            <p>$40</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
+            </div>
+
+            <div class="product" data-brand="nike" data-size="l" data-price="mid">
+            <img src="https://via.placeholder.com/150">
+            <h4>Nike Shorts</h4>
+            <p>$60</p>
+            <button class="add-to-cart" onclick="addToCart('Adidas Hoodie', 70)">Add to Cart</button>
             </div>
 
         </div>
